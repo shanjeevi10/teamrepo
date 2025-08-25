@@ -1,2 +1,6 @@
-ascendion team devops
+echo "ascendion team devops"
+
+hostname 
+whoami
+
 
