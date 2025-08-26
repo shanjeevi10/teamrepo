@@ -1,1 +1,2 @@
-hello welcome to my repo
+echo "hello welcome to my repo"
+echo "welcome git"
